@@ -1,0 +1,28 @@
+body {
+	background-color: black;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.infobox {
+	background-color: red;
+	text-align: center;
+	padding: 5px;
+	padding-bottom: 20px;
+	color: black;
+	width: 50%;
+	margin: auto;
+}
+
+#logo {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	width: 40%;
+}
+
+#key {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 5%;
+}

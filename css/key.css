@@ -1,0 +1,29 @@
+body {
+	background-color: black;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.infobox {
+	background-image: repeating-radial-gradient(black, purple 5%, black 10%);
+	background-color: purple;
+	text-align: center;
+	padding: 5px;
+	padding-bottom: 20px;
+	color: white;
+	width: 50%;
+	margin: auto;
+}
+
+#logo {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	width: 40%;
+}
+
+#key {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 5%;
+}

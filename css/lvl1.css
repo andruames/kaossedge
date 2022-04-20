@@ -1,0 +1,59 @@
+body {
+	background-image: repeating-radial-gradient(black, purple 5%, black 10%);
+}
+
+h1 {
+	color: white;
+	background-color: rgba(0,0,0,.55);
+	width: 40%;
+	text-align: center;
+	margin: auto;
+	border: 10px ridge blue;
+}
+
+.banner {
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p {
+	size: 10pt;
+	text-align: center;
+	margin: auto;
+	color: white;
+}
+
+a:link {color: lime;}
+a:visited {color: orange;}
+a:hover {color: green;}
+a:active {color: red;}
+
+.fbImg {
+	margin-right: auto;
+	margin-left: auto;
+	width: 30%;
+}
+
+.frontBox {
+	background-color: rgba(0,0,0,.55);
+	text-align: center;
+	color: white;
+	border: 10px ridge blue;
+	width: 75%;
+	margin: auto;
+}
+
+.gallery {
+	float: left;
+	padding-top: 100px;
+	padding-left: 100px;
+}
+
+.break {
+	padding:20px;
+}
+
+li {
+	text-align: left;
+}
